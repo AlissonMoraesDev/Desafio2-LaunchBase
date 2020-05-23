@@ -26,13 +26,11 @@ header h1 {
     line-height: 48px;
     color: orange;
 }
-
 header p {
     font-size: 18px;
     line-height: 28px;
     font-weight: 400;
 }
-
 #list {
     margin: 60px auto;
     padding-top: 10px;
@@ -42,7 +40,6 @@ header p {
     background: rgba(255, 255, 255, 0.2);
     border-radius: 7px;
 }
-
 
 #list ul {
     text-align: left;
